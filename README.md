@@ -4,7 +4,7 @@
 
 ## :computer: Sobre o Projeto
 
-**Esse clone foi baseado em um [vídeo](https://www.youtube.com/watch?v=x4FdZd2-_uU) do quadro UI-Clone da Rocketseat. No entanto, todo o conteúdo foi apresentado usando [React](https://pt-br.reactjs.org/) e [Styled-components](https://github.com/styled-components/styled-components), o qual eu adaptei para usar Next.js e Chakra-ui, apenas para de alguma forma por em prática esse conhecimento **
+**Esse clone foi baseado em um [vídeo](https://www.youtube.com/watch?v=x4FdZd2-_uU) do quadro UI-Clone da Rocketseat. No entanto, todo o conteúdo foi apresentado usando [React](https://pt-br.reactjs.org/) e [Styled-components](https://github.com/styled-components/styled-components), o qual eu adaptei para usar Next.js e Chakra-ui, apenas para de alguma forma por em prática esse conhecimento**
 
 <p align="center">
    <img src=".github/discord.png"/>
